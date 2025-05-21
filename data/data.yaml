@@ -1,0 +1,18 @@
+names:
+  - ball
+  - line out
+  - maul
+  - player
+  - referee
+  - ruck
+  - scrum
+nc: 7
+roboflow:
+  license: CC BY 4.0
+  project: rugby-model
+  url: https://universe.roboflow.com/university-of-tokyo-eqewd/rugby-model/dataset/3
+  version: 3
+  workspace: university-of-tokyo-eqewd
+test: ../test/images
+train: Rugby-model-3/train/images
+val: Rugby-model-3/valid/images
