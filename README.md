@@ -4,7 +4,7 @@
 
 A computer vision system that detects and classifies key rugby elements (players, referees, rucks, scrums, balls, line outs, and mauls) with high precision using YOLOv5 architecture. The system achieves 90%+ precision with real-time inference capabilities (8.8ms per image).
 
-![Demo Image](assets/detection_example.jpg)
+![Demo Image](assets/detection_example1.jpg)
 
 ## Technologies Used
 
